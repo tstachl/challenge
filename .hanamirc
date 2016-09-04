@@ -1,0 +1,4 @@
+project=challenge
+architecture=container
+test=minitest
+template=erb
